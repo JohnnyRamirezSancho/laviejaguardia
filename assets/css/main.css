@@ -1,0 +1,12 @@
+main img {
+    width: 100%;
+}
+
+p {
+    height: 25px;
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: -29px 0px 0px 0px;
+    position: relative;
+    padding: 0px 0px 0px 0px;
+}
